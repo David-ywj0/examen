@@ -1,0 +1,287 @@
+body {
+    width: 1250px;
+    margin: 0 auto;
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+header {
+    display: grid;
+    grid-template-columns: 4fr 3fr;
+    background-color: blanchedalmond;
+    box-shadow: 0 0 5px #33333366;
+    margin-bottom: 125px;
+}
+
+nav {
+    position: relative;
+}
+
+.nav-a {
+    font-style: italic;
+    text-decoration: none;
+    color: black;
+    margin-left: 25px;
+    position: relative;
+    top: 30px;
+
+
+}
+
+h1 {
+    position: relative;
+    left: 100px;
+}
+
+#aoao h2 {
+    position: relative;
+    bottom: 33px;
+}
+
+#aoao {
+    background-color: lightgrey;
+    width: 500px;
+    height: 225px;
+    position: relative;
+    top: 50px;
+    padding: 40px 40px;
+}
+
+.img {
+    width: 960px;
+    height: 540px;
+    position: relative;
+    left: 250px;
+    z-index: -1;
+}
+
+.div-main {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 75px;
+    padding-left: 75px;
+    padding-right: 75px;
+    position: relative;
+    top: -100px;
+
+}
+
+.div-main a {
+    text-decoration: none;
+    height: 300px;
+    background-color: aliceblue;
+    padding: 25px;
+    color: black;
+    text-align: center;
+}
+
+
+
+.divs h3 {
+    font-style: italic;
+    font-size: 30px;
+    margin-top: 0;
+}
+#sectionii {
+    text-align: center;
+    font-size: 60px;
+}
+#ps {
+    background-color: beige;
+    width: 1250px;
+    height: 400px;
+    text-align: center;
+
+}
+#ps5 {
+    width: 400px;
+    height: 263px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+
+    position: relative;
+    left: 250px;
+    bottom: 210px;
+
+    
+}
+#rtx {
+    text-align: center;
+    margin-top: 75px;
+    background-color: beige;
+    width: 1250px;
+    height: 450px;
+}
+#rtxx{
+    width: 600px;
+    height: 315px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    position: relative;
+    right: 250px;
+    bottom: 270px;
+
+
+}
+.section2 {
+    
+    height: 1000px;
+}
+#rtx h2 {
+    position: relative;
+    right: 250px;
+    top: 15px;
+}
+#ps h2 {
+    position: relative;
+    left: 250px;
+    top: 20px;
+}
+#ps p {
+    width: 350px;
+    font-size: 19px;
+    position: relative;
+    left: 150px;
+    top: 35px;
+}
+#rtx p {
+    width: 350px;
+    font-size: 19px;
+    padding-left: 800px;
+    padding-top: 75px;
+}
+#sectionii {
+    text-align: center;
+    position: relative;
+}
+.apatra {
+    margin-top: 150px;
+    
+}
+#cladire {
+    width: 660;
+    height: 450px;
+    position: relative;
+    left: 530px;
+    top: -275px    ;
+    border-radius: 50px ;
+}
+#popo {
+    font-size: 50px;
+    position: relative;
+    bottom: -150px;
+
+
+}
+.apatra p {
+    width: 300px;
+    font-size: 19px;
+    position: relative;
+    top: 175px;
+    left: 75px;
+}
+.apatra {
+    background-color: cadetblue;
+    height: 700px;
+    position: relative;
+    top: 75px;
+}
+.acincea {
+    position: relative;
+    top: 200px;
+    left: 75px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+}
+#email {
+
+    width: 600px;
+    height: 40px;
+    font-size: 25px;
+    font-style: oblique;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    position: relative;
+    top: 30px;
+    left: 30px;
+}
+#mai {
+    position: relative;
+    bottom: 15px;
+    left: 10px;
+}
+#dtehno {
+    width: 450px;
+    background-color: beige;
+    position: relative;
+    bottom: 12px;
+    border-color: black;
+    border: solid;
+    border: 5px;
+    
+}
+#butonn {
+    background-color: crimson;
+    width: 100px;
+}
+.capat {
+    background-color: #333333;
+    position: relative;
+    top: 250px;
+    left: -4px;
+    color: azure;
+    text-align: center;
+    
+    
+}
+
+#nrtelefon {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    position: relative;
+    gap: 0px;
+    color: beige;
+    
+}
+.footer2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    color: azure;    
+}
+.footer2 a {
+    color: azure;
+}
+.footer2 p {
+    position: relative;
+    bottom: 14px;
+}
+.footer3 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    
+}
+.footer3 a {
+    color: azure;
+}
+.footer3 p {
+    position: relative;
+    bottom: 14px;
+}
+.intrebari {
+    margin: 10px;
+    position: relative;
+    top: 50px;
+    background-color: bisque;
+}
+.intrebari p {
+    width: 550px;
+}
+#david {
+    position: relative;
+    right: 500px;
+}
